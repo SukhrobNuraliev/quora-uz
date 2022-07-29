@@ -9,5 +9,5 @@ Laravel takes the pain out of development by easing common tasks used in many we
 
 ## Security Vulnerabilities
 
-All security vulnerabilities will be promptly addressed.
+All security vulnerabilities will be
 
