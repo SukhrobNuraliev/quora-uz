@@ -6,6 +6,7 @@ Laravel takes the pain out of development by easing common tasks used in many we
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- cool
 
 ## Security Vulnerabilities
 
